@@ -8,6 +8,8 @@
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.2.5</h3>
-	<h3>HULBO TEST</h3>
+	<h3>HULBO TEST1</h3>
+	<h3>HULBO TEST2</h3>
+	<h3>HULBO TEST3</h3>
 </body>
 </html>
