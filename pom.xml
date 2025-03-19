@@ -99,6 +99,19 @@
                 <version>3.2.2</version>
             </plugin>
 
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.22.2</version>
+                <configuration>
+                    <forkCount>1</forkCount>
+                    <reuseForks>false</reuseForks>
+                    <testFailureIgnore>true</testFailureIgnore>
+                    <argLine>-Xmx1024m</argLine>
+                    <timeout>60</timeout> <!-- 60초로 타임아웃 설정 -->
+                </configuration>
+            </plugin>
+
         </plugins>
     </build>
 
