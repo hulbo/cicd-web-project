@@ -12,5 +12,6 @@
 	<h3>HULBO TEST2</h3>
 	<h3>HULBO TEST3</h3>
 	<h3>HULBO TEST4</h3>
+	<h3>Version: 1.0</h3>
 </body>
 </html>
