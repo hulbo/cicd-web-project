@@ -7,6 +7,6 @@
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Last Modified Date: [2025.04.03][21:01]</h3>
+    <h3>Last Modified Date: [2025.04.04][11:57]</h3>
 </body>
 </html>
